@@ -7,7 +7,7 @@ Setting up your Canon printer doesn't have to be complicated. Whether you own a 
   .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="#" style="background-color:#ff0000; color:#FF0000; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
+        <a href="#" style="background-color:#ff0000; color:#FFFFFF; padding:18px 40px; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15); display:inline-block;">
             ➡ Setup My Printer Now
         </a>
     </div>
