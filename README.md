@@ -1,1 +1,1 @@
-# Talk with Customer Support
+# Canon Printer Setup Mannual
