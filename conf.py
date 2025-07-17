@@ -20,11 +20,11 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # SEO Title for browser tab and HTML pages
-html_title = "How Do I Talk to Customer Support of Trust Wallet?"
+html_title = "Quick Canon Printer Setup Using ij.start.canon"
 
 
 # Optional short title for nav bar
-html_short_title = "How Do I Talk to Customer Support of Trust Wallet?"
+html_short_title = "Quick Canon Printer Setup Using ij.start.canon"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
