@@ -10,8 +10,8 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Support Guide'
-copyright = '2025, Trust Wallet'
+project = 'Canon Mannal'
+copyright = '2025, IJ Start Canon'
 author = 'Hennry'
 
 # The full version, including alpha/beta/rc tags
